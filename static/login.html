@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Log In</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url(https://img.freepik.com/premium-photo/defocused-cobalt-blue-lights-background-blue-ink-cool-creative-backdrop-with-out-focus-light-balls_87555-22665.jpg?w=360);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        
+        .container {
+            max-width: 400px;
+            margin: 100px auto;
+            text-align: center;
+            padding: 40px;
+            background-color: #ffffff;
+            border-radius: 6px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            font-size: 32px;
+            color: #333333;
+            margin-bottom: 20px;
+        }
+        
+        .form-group {
+            margin-bottom: 25px;
+        }
+        
+        label {
+            font-size: 18px;
+            color: #555555;
+            display: block;
+            margin-bottom: 5px;
+            text-align: left;
+        }
+        
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 4px;
+            border: 1px solid #cccccc;
+            transition: border-color 0.3s;
+        }
+        
+        input[type="text"]:focus,
+        input[type="password"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+        
+        .button {
+            display: inline-block;
+            text-decoration: none;
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 12px 24px;
+            margin-top: 20px;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Log In</h1>
+
+        <form action="/loginData" method="POST">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+
+            <button type="submit" class="button">Log In</button>
+        </form>
+    </div>
+</body>
+</html>
