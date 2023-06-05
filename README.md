@@ -6,7 +6,7 @@ This is a personal finance tracker web application built with HTML, CSS, JavaScr
 
 The Personal Finance Tracker allows users to track and manage their personal finances with ease. It provides features for creating and managing financial transactions, categorizing expenses, generating reports, and more.
 
-<img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/5d7cb1f5-5178-4f53-95d9-038cb9c2cfb3" alt="Screenshot" width="550" height="400" />
+<img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/5d7cb1f5-5178-4f53-95d9-038cb9c2cfb3" alt="Screenshot" width="550" height="300" />
 
 ## Features
 
