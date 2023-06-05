@@ -61,8 +61,8 @@ Replace 'your-username', 'your-password', and 'your-database-name' with your MyS
 7.Open a web browser and visit http://localhost:5000 to access the Personal Finance Tracker
 
 <div style="display: flex;">
-  <img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/a4ac1415-c0fa-48f0-8ebc-4dab7976c2f0" alt="Image 1" style="width: 400px; height: 400px; margin-right: 10px;">
-  <img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/fafbc647-7a83-4dfe-ab3e-1d65305c1fdf" alt="Image 2" style="width: 400px; height: 400px;">
+  <img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/a4ac1415-c0fa-48f0-8ebc-4dab7976c2f0" alt="Image 1" style="width: 400px; height: 350px; margin-right: 10px;">
+  <img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/fafbc647-7a83-4dfe-ab3e-1d65305c1fdf" alt="Image 2" style="width: 400px; height: 350px; margin-left:100px;">
 </div>
 
 
