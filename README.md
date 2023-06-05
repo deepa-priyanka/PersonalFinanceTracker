@@ -53,6 +53,7 @@ const connection = mysql.createConnection({
 Replace 'your-username', 'your-password', and 'your-database-name' with your MySQL database credentials.
 
 6.Start the server: node index.js
+
 7.Open a web browser and visit http://localhost:5000 to access the Personal Finance Tracker
 
 
