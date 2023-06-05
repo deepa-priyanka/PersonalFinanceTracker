@@ -42,7 +42,7 @@ The Personal Finance Tracker allows users to track and manage their personal fin
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/your-username/personal-finance-tracker.git
+1. Clone the repository: git clone https://github.com/deepa-priyanka/PersonalFinanceTracker
 2.  Navigate to the project directory: cd personal-finance-tracker
 3. Install the dependencies: npm install
 4. Open the `index.js` file in a text editor.
