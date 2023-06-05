@@ -17,6 +17,8 @@ The Personal Finance Tracker allows users to track and manage their personal fin
 - Income: Manipulate Income insightfully.
 - Expenses: Organise expense transactions.
 
+<img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/60872ccb-617c-46be-ad23-54ab964c01aa" alt="Screenshot" width="550" height="300" />
+
 ## Technologies Used
 
 - HTML
