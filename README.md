@@ -4,14 +4,14 @@ This is a personal finance tracker web application built with HTML, CSS, JavaScr
 
 ## Description
 
-The Personal Finance Tracker allows users to track and manage their personal finances with ease. It provides features for creating and managing financial transactions, categorizing expenses, generating reports, and more.
+The Personal Finance Tracker allows users to track and manage their personal finances with ease. In a world where financial well-being plays a pivotal role in our lives, managing personal finances can often be a daunting task. The challenges of tracking income, monitoring expenses, and working towards financial goals are universal. It's this very complexity that inspired the creation of our Personal Finance Tracker – a powerful tool designed to simplify the intricacies of financial management and empower individuals to take control of their monetary journey.
+
 
 <img src="https://github.com/deepa-priyanka/PersonalFinanceTracker/assets/113755332/5d7cb1f5-5178-4f53-95d9-038cb9c2cfb3" alt="Screenshot" width="550" height="300" />
 
 ## Features
 
 - User authentication: Sign up and log in to access personal finance data.
-- Dashboard: Overview of financial summary, recent transactions, and tables.
 - Transaction Management: Add, edit, and delete financial transactions.
 - Categories: Categorize transactions to better organize expenses.
 - Income: Manipulate Income insightfully.
@@ -38,7 +38,7 @@ The Personal Finance Tracker allows users to track and manage their personal fin
 ### Database Setup
 
 1. Start the XAMPP server and ensure MySQL is running.
-2. Create a new database in PHPMyAdmin or any MySQL client of your choice. Note down the database name ,user account name, password for later useage of them in the index.js file at line 26 onwards.
+2. Create a new database in PHPMyAdmin or any MySQL client of your choice. Note down the database name ,user account name, password for later usage of them in the index.js file at line 26 onwards.
 
 ### Installation
 
